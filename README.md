@@ -1,4 +1,4 @@
-# Automated_Teller_Machine--ATM-
+# Automated_Teller_Machine-ATM-
 
 Functional ATM  Java project
 
